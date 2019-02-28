@@ -16,8 +16,6 @@ Visualizing IMDB Movie Dataset
 
 ### Distribution of listings
 
-![MovieViz](plots/content_in_60_70.png)
-
 ![MovieViz](plots/unstack_content_in_60_70.png)
 
 ### Total votes and median votes
